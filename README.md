@@ -1,23 +1,17 @@
 # hello-world
 README:
- Problem 
+Problem 
   Majority of internet users lack digital literacy;
-  Using technology in an unacceptable and  
-  inappropriate manner;  
-  Question about data  privacy and security;   
-  Substantial users access mostly the entertainment 
-  and social media platforms 
-  
+  Using technology in an unacceptable and inappropriate manner;
+  sceptical  about data  privacy and security;   
+  Substantial users access mostly the entertainment and social media platforms 
+ 
 Solution:
-  Spreading the Digital Literacy;
- Creating awareness on the Rights and 
- Responsibilities;
+ Spreading the Digital Literacy;
+ Creating awareness on the Rights and Responsibilities;
  Encourage to use digital technology by providing      
  information about online privacy and security .
-This will encourage  internet users to access, participate and benefit from the digital economy and governance.
-
-
-
+ This will encourage  internet users to access, participate and benefit from the digital economy and governance.
 
 
 3.  Who are we?
@@ -32,10 +26,6 @@ You!  In whatever way you can help.
 We need experts and engaged in Advocacy in the Digital Citizenship( literacy, safety, security, privacy, rights and responsibilities). We need content creators, video makers, translators in Indian languages.
 
 Our primary goal is to create written content  as well as visual content and publish/ share in the social medias such as Facebook, Whatsapp, Youtube, and other platforms in the Internet. Ultimately to create a website for it.
-
-
-
-
 
 
 
